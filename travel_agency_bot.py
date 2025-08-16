@@ -18,14 +18,14 @@ import os
 # ✅ CONFIG
 # ==============================
 # 1) Put your BotFather token here OR set environment variable TELEGRAM_BOT_TOKEN
-TOKEN = os.getenv("TELEGRAM_BOT_TOKEN", "7405344536:AAFWG9yaSc-Wt_-j26YowynR4S6ujZjrQPc")
+TOKEN = os.getenv("angelswingsint", "7405344536:AAFWG9yaSc-Wt_-j26YowynR4S6ujZjrQPc")
 
 # 2) Agency info (edit as needed)
 AGENCY = {
     "name": "Angel's Wings",
     "phone": "+880101641591041",
     "whatsapp": "+8801977802655",
-    "email": "travel@agency.com",
+    "email": "angelswingsshanto@gmail.com",
     "address_bn": "বাসাতি কনডোমিনিয়াম (৩য় তলা), বাড়ি ১৫, রোড ১৭, বনানী সি/এ, ঢাকা-১২১৩, বাংলাদেশ",
     # Optional Google Maps link (edit with your exact map link if you have one)
     "maps": "https://maps.google.com/?q=Basati+Condominium,+House+15,+Road+17,+Banani+C/A,+Dhaka+1213",
@@ -346,3 +346,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
